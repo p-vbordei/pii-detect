@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/p-vbordei/pii-detect/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/pii-detect/actions/workflows/ci.yml)
 
+[![npm](https://img.shields.io/npm/v/pii-detect.svg)](https://www.npmjs.com/package/pii-detect)
+[![downloads](https://img.shields.io/npm/dm/pii-detect.svg)](https://www.npmjs.com/package/pii-detect)
+[![bundle](https://img.shields.io/bundlejs/size/pii-detect)](https://bundlejs.com/?q=pii-detect)
+
 Detect personally identifiable information in text. Includes **checksum validation** (Luhn for credit cards, ISO 13616 mod-97 for IBANs) to keep false positives down. Zero dependencies.
 
 ```ts
