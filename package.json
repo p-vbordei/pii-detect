@@ -1,6 +1,6 @@
 {
   "name": "pii-detect",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Detect personally identifiable information (emails, phones, SSNs, credit cards with Luhn, IBANs with checksum, IPs, Bitcoin addresses). Zero dependencies.",
   "keywords": [
     "pii",
