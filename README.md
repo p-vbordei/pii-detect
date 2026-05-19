@@ -1,5 +1,7 @@
 # pii-detect
 
+[![ci](https://github.com/p-vbordei/pii-detect/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/pii-detect/actions/workflows/ci.yml)
+
 Detect personally identifiable information in text. Includes **checksum validation** (Luhn for credit cards, ISO 13616 mod-97 for IBANs) to keep false positives down. Zero dependencies.
 
 ```ts
